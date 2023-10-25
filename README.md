@@ -157,11 +157,11 @@
 > Heapify: Ensure the heap property is maintained after insertion or removal operations.
 > Understanding these fundamental data structures is crucial for solving various algorithmic problems and building efficient software applications. The provided implementations serve as foundational examples to further explore and apply these concepts in real-world programming scenarios.
 >
-> Stacks Overview:
+### > Stacks Overview:
 
 A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It means that the last element added is the first one to be removed. Think of it like a stack of plates - you always take the topmost plate off first.
 
-Operations:
+### Operations:
 
 Push: Add an element to the top of the stack.
 Pop: Remove the top element from the stack.
@@ -173,11 +173,13 @@ Managing function calls and recursive function implementations.
 Undo mechanisms in software applications.
 Parsing expressions, such as in compilers.
 Tracking state in algorithms (like backtracking algorithms).
-Queues Overview:
+
+
+### Queues Overview:
 
 A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It means that the first element added is the first one to be removed. Think of it like a queue of people waiting in line - the person who enters the queue first, exits first.
 
-Operations:
+### Operations:
 
 Enqueue: Add an element to the rear of the queue.
 Dequeue: Remove an element from the front of the queue.
