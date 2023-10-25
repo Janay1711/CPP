@@ -131,19 +131,21 @@
 > Operations
 > Insertion: Add a new node at the beginning, end, or at a specific position in the linked list.
 > Deletion: Remove a node from the list.
-> Traversal: Visit each node in the linked list. 2. Stack
-> Overview
+> Traversal: Visit each node in the linked list. 2.
+>### Stack Overview
 > A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. Elements are added and removed from the same end, known as the top of the stack. Stacks are often used for managing function calls, undo mechanisms, and parsing expressions.
 
-> Operations
+>### Operations
 > Push: Add an element to the top of the stack.
 > Pop: Remove the top element from the stack.
 > Peek: Get the top element without removing it.
-> isEmpty: Check if the stack is empty. 3. Queue
-> Overview
+> isEmpty: Check if the stack is empty.
+>
+>
+>### Queue Overview
 > A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. Elements are added from the rear, and removal occurs from the front of the queue. Queues are commonly used in scenarios involving task scheduling, breadth-first search algorithms, and print job management.
 
-> Operations
+> ### Operations
 > Enqueue: Add an element to the rear of the queue.
 > Dequeue: Remove an element from the front of the queue.
 > Peek: Get the front element without removing it.
