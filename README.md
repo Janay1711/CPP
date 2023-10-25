@@ -156,4 +156,45 @@
 > Extract Min: Remove and return the minimum element from the heap.
 > Heapify: Ensure the heap property is maintained after insertion or removal operations.
 > Understanding these fundamental data structures is crucial for solving various algorithmic problems and building efficient software applications. The provided implementations serve as foundational examples to further explore and apply these concepts in real-world programming scenarios.
+>
+> Stacks Overview:
+
+A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It means that the last element added is the first one to be removed. Think of it like a stack of plates - you always take the topmost plate off first.
+
+Operations:
+
+Push: Add an element to the top of the stack.
+Pop: Remove the top element from the stack.
+Peek (or Top): Get the top element without removing it.
+isEmpty: Check if the stack is empty.
+Common Use Cases:
+
+Managing function calls and recursive function implementations.
+Undo mechanisms in software applications.
+Parsing expressions, such as in compilers.
+Tracking state in algorithms (like backtracking algorithms).
+Queues Overview:
+
+A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It means that the first element added is the first one to be removed. Think of it like a queue of people waiting in line - the person who enters the queue first, exits first.
+
+Operations:
+
+Enqueue: Add an element to the rear of the queue.
+Dequeue: Remove an element from the front of the queue.
+Peek (or Front): Get the front element without removing it.
+isEmpty: Check if the queue is empty.
+Common Use Cases:
+
+Task scheduling algorithms, especially in operating systems.
+Breadth-first search algorithms in graph theory.
+Print job management in printers.
+Simulation systems where entities wait for processing.
+Both stacks and queues are essential data structures used in various algorithms and applications. Understanding when and how to use them is fundamental for efficient problem-solving and software development.
+
+
+
+
+
+
+
 # CPP
